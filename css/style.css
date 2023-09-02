@@ -180,3 +180,17 @@ ul li {
     transform: rotate(1turn);
   }
 }
+.content-yummy {
+  padding-left: 50px;
+}
+@media screen and (max-width: 468px) {
+  .right-side-menu {
+    width: 40px;
+  }
+  .logo {
+    width: 30px;
+  }
+  .fa-2x {
+    font-size: 1em !important;
+  }
+}
