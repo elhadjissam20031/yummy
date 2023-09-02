@@ -559,7 +559,7 @@ function displayInstruction(result) {
       <h3 class="mt-3">${result.strMeal}</h3>
     </div>
   </div>
-  <div class=" col-sm-12 col-md-5 ms-5 ">
+  <div class=" col-sm-12 col-md-5 ms-md-5 ms-1">
     <h2>Instructions</h2>
     <p>
       ${result.strInstructions}
